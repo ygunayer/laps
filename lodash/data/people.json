@@ -1,0 +1,91 @@
+[{
+	"id": 1,
+	"gender": "Female",
+	"firstName": "Beverly",
+	"lastName": "Riley",
+	"username": "briley0",
+	"email": "briley0@apple.com",
+	"age": 37,
+	"ipAddress": "211.181.36.162"
+}, {
+	"id": 2,
+	"gender": "Male",
+	"firstName": "Nicholas",
+	"lastName": "Ford",
+	"username": "nford1",
+	"email": "nford1@t-online.de",
+	"age": 21,
+	"ipAddress": "73.62.94.55"
+}, {
+	"id": 3,
+	"gender": "Female",
+	"firstName": "Tina",
+	"lastName": "Sims",
+	"username": "tsims2",
+	"email": "tsims2@usgs.gov",
+	"age": 25,
+	"ipAddress": "67.89.179.61"
+}, {
+	"id": 4,
+	"gender": "Female",
+	"firstName": "Barbara",
+	"lastName": "Bailey",
+	"username": "bbailey3",
+	"email": "bbailey3@squarespace.com",
+	"age": 47,
+	"ipAddress": "142.223.252.104"
+}, {
+	"id": 5,
+	"gender": "Male",
+	"firstName": "Antonio",
+	"lastName": "Chavez",
+	"username": "achavez4",
+	"email": "achavez4@yelp.com",
+	"age": 47,
+	"ipAddress": "52.226.14.158"
+}, {
+	"id": 6,
+	"gender": "Male",
+	"firstName": "Charles",
+	"lastName": "Simmons",
+	"username": "csimmons5",
+	"email": "csimmons5@slashdot.org",
+	"age": 45,
+	"ipAddress": "185.253.31.179"
+}, {
+	"id": 7,
+	"gender": "Female",
+	"firstName": "Sarah",
+	"lastName": "Watson",
+	"username": "swatson6",
+	"email": "swatson6@ebay.com",
+	"age": 20,
+	"ipAddress": "37.145.3.149"
+}, {
+	"id": 8,
+	"gender": "Female",
+	"firstName": "Cheryl",
+	"lastName": "Ortiz",
+	"username": "cortiz7",
+	"email": "cortiz7@ed.gov",
+	"age": 37,
+	"ipAddress": "39.224.47.208"
+}, {
+	"id": 9,
+	"gender": "Female",
+	"firstName": "Jessica",
+	"lastName": "Hansen",
+	"username": "jhansen8",
+	"email": "jhansen8@newyorker.com",
+	"age": 42,
+	"ipAddress": "43.146.36.175"
+}, {
+	"id": 10,
+	"gender": "Male",
+	"firstName": "Antonio",
+	"lastName": "Vasquez",
+	"username": "avasquez9",
+	"email": "avasquez9@wordpress.com",
+	"age": 30,
+	"ipAddress": "70.206.33.86"
+}]
