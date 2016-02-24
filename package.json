@@ -2,6 +2,10 @@
   "name": "lodash-async-promise",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ygunayer/laps.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
